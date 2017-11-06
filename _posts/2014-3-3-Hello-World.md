@@ -7,6 +7,11 @@ title: You're up and running!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
+<p>This is a <q>Q tag:</q> inside a paragraph.</p>
+<p>This is a <i>I tag:</i> inside a paragraph.</p>
+<p>This is a <b>B tag:</b> inside a paragraph.</p>
+<p>This is a <em>EM tag:</em> inside a paragraph.</p>
+<p>This is a <u>U tag:</u> inside a paragraph.</p>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
